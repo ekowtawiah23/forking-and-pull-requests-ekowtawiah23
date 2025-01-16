@@ -3,7 +3,7 @@
 
 Welcome to the **Forking and Pull Requests** assignment! 🎉 This assignment will help you learn the basics of **forking** a repository, making changes, and submitting those changes through a **pull request (PR)**.
 
-## Objectives
+## Objectives 
 
 By completing this assignment, you will:
 * Learn how to fork a repository and manage your own copy
